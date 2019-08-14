@@ -23,3 +23,4 @@ http://z390.org/
 
 https://3ovyg21t17l11k49tk1oma21-wpengine.netdna-ssl.com/wp-content/uploads/2019/04/Reselman_fig1.jpg
 
+Five Steps to Migrate Unisys Mainframes to AWS https://www.infoq.com/articles/migrate-mainframe-aws/
