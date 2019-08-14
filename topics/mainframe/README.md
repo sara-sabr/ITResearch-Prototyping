@@ -2,6 +2,9 @@
 > :construction: Work in progress and all over the map 
 >
 
+## Landscape
+https://coggle.it/diagram/XVRFuJdgYRfnDVgI/t/mainframe-modernization
+
 ## References
 
 Schwartz, M. (2018, 07 05). Yes, You Should Modernize Your Mainframe with the Cloud. Retrieved from AWS Cloud Enterprise Strategy Blog: https://aws.amazon.com/blogs/enterprise-strategy/yes-you-should-modernize-your-mainframe-with-the-cloud/
