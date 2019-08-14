@@ -16,3 +16,7 @@ https://activedefense.us/2018/04/14/so-you-want-your-own-mainframe-hercules-z-ar
 
 http://www.hercules-390.eu/
 
+http://z390.org/ 
+
+https://3ovyg21t17l11k49tk1oma21-wpengine.netdna-ssl.com/wp-content/uploads/2019/04/Reselman_fig1.jpg
+
