@@ -9,3 +9,10 @@ Schwartz, M. (2018, 07 05). Yes, You Should Modernize Your Mainframe with the Cl
 Valence, P. d. (2018, 11 28). Mainframe Modernization with AWS Patterns and Best Practices. Retrieved from YouTube: https://www.youtube.com/watch?v=AJ88gY1w9NA
 
 https://aws.amazon.com/blogs/apn/tag/mainframe/
+
+https://www.youtube.com/watch?v=Vw0iOiEoEdQ
+
+https://activedefense.us/2018/04/14/so-you-want-your-own-mainframe-hercules-z-architecture-emulator-tutorial/
+
+http://www.hercules-390.eu/
+
