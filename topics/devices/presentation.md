@@ -14,7 +14,7 @@ Continuing Our Improvements
 
 ## Agenda
 
-1. Business Value
+1. The Question
 2. Risks and Mitigations
 3. Approaches 
 4. Summary 
@@ -25,6 +25,10 @@ Continuing Our Improvements
 
 If there were no budget, staffing, or other constraints, what would the business look like? How will it drive value and provide meaningful work?  
 [Deloitte](https://www2.deloitte.com/insights/us/en/focus/technology-and-the-future-of-work/tech-leaders-reimagining-work-workforce-workplace.html?id=us:2el:3lk:4di_gl:5eng:6di&range=4/207/3/1/3/43/84/0:1,4/207/3/1/3/43/84/0:145)
+
+--
+
+### Where is the value add?
 
 --
 
@@ -39,9 +43,8 @@ If there were no budget, staffing, or other constraints, what would the business
 
 #### Internet Browsers
 
-![Browser Stat](./assets/browsers-2019-07.PNG)  
+![Browser Stat](./assets/browsers-2019-07.png)  
 [Reference: W3C Counter](https://www.w3counter.com/trends)
-
 
 
 ---
