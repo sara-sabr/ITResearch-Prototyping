@@ -28,7 +28,12 @@ If there were no budget, staffing, or other constraints, what would the business
 
 --
 
-### Where is the value add?
+### The Value add?
+
+- Outcomes/Results over tooling  
+- Accelerate onboarding through flexibility
+- Developer Happiness
+- Moving the organization towards BYOD
 
 --
 
@@ -46,6 +51,11 @@ If there were no budget, staffing, or other constraints, what would the business
 ![Browser Stat](./assets/browsers-2019-07.png)  
 [Reference: W3C Counter](https://www.w3counter.com/trends)
 
+--
+
+#### IT Developers
+
+![Most Loved Environment](https://insights.stackoverflow.com/survey/2019/#technology-_-most-loved-dreaded-and-wanted-platforms)
 
 ---
 
