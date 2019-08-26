@@ -2,7 +2,6 @@
 WORK IN PROGRESS, jotting ideas.
 ```
 
-
 # The Future of Work
 Continuing Our Improvements 
 
@@ -16,8 +15,8 @@ Continuing Our Improvements
 
 1. The Question
 2. Risks and Mitigations
-3. Approaches 
-4. Summary 
+3. Approaches
+4. Questions
 
 ---
 
@@ -30,14 +29,18 @@ If there were no budget, staffing, or other constraints, what would the business
 
 ### The Value add?
 
-- Outcomes/Results over tooling  
-- Accelerate onboarding through flexibility
-- Developer Happiness
-- Moving the organization towards BYOD
+- Outcomes/Results over tooling
+- Accelerate onboarding through flexibility of tools
+- Moving the organization towards potientially examining BYOD
+- Driving crowd source collaboration
 
 --
 
-### The Changes Happening 
+### Continuing Improvements
+
+Let's experiment what we support to drive results quicker. Technology constantly improves, so let's see how we can adopt them.
+
+-- 
 
 #### Worldwide OS
 
@@ -55,26 +58,55 @@ If there were no budget, staffing, or other constraints, what would the business
 
 #### IT Developers
 
-![Most Loved Environment](https://insights.stackoverflow.com/survey/2019/#technology-_-most-loved-dreaded-and-wanted-platforms)
+![Most Loved Environment](./assets/2019 stackoverflow dev.png)  
+[Stackoverflow](https://insights.stackoverflow.com/survey/2019/#technology-_-most-loved-dreaded-and-wanted-platforms)
 
 ---
 
-## Why different OSes
+## The Risks and Mitigations
 
-Linux: https://www.techrepublic.com/article/five-big-names-that-use-linux-on-the-desktop/
+How do we ensure we don't impact our security posture while we try out new ideas.
+
+--
+
+### Desktop Management
+
+**Risk**: Management of multiple different OSes
+
+**Mitigation**: Research device management tools to support Windows, Linux and Mac. Cloud based solutions like [Microsoft Intune](https://www.microsoft.com/en-us/microsoft-365/enterprise-mobility-security/microsoft-intune). Ensure patches are applied whether the device is on/off the corporate network.
+
+--
+
+### Asset Management
+
+**Risk**: Ensuring assets are tracked and one asset per user
+
+**Mitigation**: Research approaches of one asset per user while retaining access to corporate applications.
+- Virtual machine to access corporate apps?
+- Virtual Kiosk for users
+- Web portal applications
+
+--
+
+### Security Posture
+
+**Risk**: Connecting devices that are not enterprise ready is a risk.
+
+**Mitigation**: Devices will remain off network during this research phase.
+- Virtual machine or Kiosk will be used to access network when required
+
+--
+
+## Approaches
+
+Research through experimentation for each OS and produce findings on their experience
+- 1 control group
+- 1 super user group
+- 1 regular user group
+
+Learn lessons from [AAFC](https://gcconnex.gc.ca/file/download/24621373)
 
 ---
 
-## Change Google
+## Questions
 
-https://www.w3counter.com/globalstats.php?year=2019&month=7
-
----
-
-## The challenges
-
----
-
-## The Approaches
-
----
