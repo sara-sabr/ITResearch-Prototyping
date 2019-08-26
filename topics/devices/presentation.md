@@ -1,7 +1,3 @@
-```
-WORK IN PROGRESS, jotting ideas.
-```
-
 # The Future of Work
 Continuing Our Improvements 
 
