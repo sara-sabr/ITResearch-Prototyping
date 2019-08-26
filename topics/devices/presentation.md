@@ -36,7 +36,7 @@ If there were no budget, staffing, or other constraints, what would the business
 
 Let's experiment what we support to drive results quicker. Technology constantly improves, so let's see how we can adopt them.
 
--- 
+--
 
 #### Worldwide OS
 
