@@ -27,7 +27,7 @@ If there were no budget, staffing, or other constraints, what would the business
 
 - Outcomes/Results over tooling
 - Accelerate onboarding through flexibility of tools
-- Moving the organization towards potientially examining BYOD
+- Moving the organization towards potentially examining BYOD
 - Driving crowd source collaboration
 
 --
