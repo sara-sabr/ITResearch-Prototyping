@@ -40,14 +40,14 @@ Let's experiment what we support to drive results quicker. Technology constantly
 
 #### Worldwide OS
 
-![OS Stat](./assets/os-2019-07.png)  
+![OS Stat](https://github.com/sara-sabr/ITResearch-Prototyping/raw/master/topics/devices/assets/os-2019-07.png)  
 [Reference - StatsCounter](https://gs.statcounter.com/os-market-share/desktop-mobile-tablet/worldwide/#monthly-201807-201907)
 
 --
 
 #### Internet Browsers
 
-![Browser Stat](https://github.com/sara-sabr/ITResearch-Prototyping/raw/master/topics/devices/assets/os-2019-07.png)  
+![Browser Stat](https://github.com/sara-sabr/ITResearch-Prototyping/raw/master/topics/devices/assets/browsers-2019-07.png)  
 [Reference: W3C Counter](https://www.w3counter.com/trends)
 
 --
