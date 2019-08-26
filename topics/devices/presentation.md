@@ -58,7 +58,7 @@ Let's experiment what we support to drive results quicker. Technology constantly
 
 #### IT Developers
 
-![Most Loved Environment](./assets/2019 stackoverflow dev.png)  
+![Most Loved Environment](./assets/2019-stackoverflow-dev.png)  
 [Stackoverflow](https://insights.stackoverflow.com/survey/2019/#technology-_-most-loved-dreaded-and-wanted-platforms)
 
 ---
