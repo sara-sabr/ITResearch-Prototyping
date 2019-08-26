@@ -47,14 +47,14 @@ Let's experiment what we support to drive results quicker. Technology constantly
 
 #### Internet Browsers
 
-![Browser Stat](./assets/browsers-2019-07.png)  
+![Browser Stat](https://github.com/sara-sabr/ITResearch-Prototyping/raw/master/topics/devices/assets/os-2019-07.png)  
 [Reference: W3C Counter](https://www.w3counter.com/trends)
 
 --
 
 #### IT Developers
 
-![Most Loved Environment](./assets/2019-stackoverflow-dev.png)  
+![Most Loved Environment](https://github.com/sara-sabr/ITResearch-Prototyping/raw/master/topics/devices/assets/2019-stackoverflow-dev.png)  
 [Stackoverflow](https://insights.stackoverflow.com/survey/2019/#technology-_-most-loved-dreaded-and-wanted-platforms)
 
 ---
