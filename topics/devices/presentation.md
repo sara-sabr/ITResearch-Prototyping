@@ -91,7 +91,7 @@ How do we ensure we don't impact our security posture while we try out new ideas
 **Mitigation**: Devices will remain off network during this research phase.
 - Virtual machine or Kiosk will be used to access network when required
 
---
+---
 
 ## Approaches
 
