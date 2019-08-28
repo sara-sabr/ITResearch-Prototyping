@@ -9,14 +9,22 @@ Continuing Our Improvements
 
 ## Agenda
 
-1. The Question
-2. Risks and Mitigations
+1. The Ask
+2. The Why
+3. The How
+2. The Concerns
 3. Approaches
 4. Questions
 
 ---
 
-## The Question
+## The Ask
+
+The approval to experiment with multiple OSes and software that focus on ensuring ESDC remains innovative and continuing to attract talent.
+
+---
+
+## The Why
 
 If there were no budget, staffing, or other constraints, what would the business look like? How will it drive value and provide meaningful work?  
 [Deloitte](https://www2.deloitte.com/insights/us/en/focus/technology-and-the-future-of-work/tech-leaders-reimagining-work-workforce-workplace.html?id=us:2el:3lk:4di_gl:5eng:6di&range=4/207/3/1/3/43/84/0:1,4/207/3/1/3/43/84/0:145)
@@ -25,16 +33,17 @@ If there were no budget, staffing, or other constraints, what would the business
 
 ### The Value add?
 
-- Outcomes/Results over tooling
-- Accelerate onboarding through flexibility of tools
-- Moving the organization towards potentially examining BYOD
-- Driving crowd source collaboration
+- Outcomes and results over standard tooling
+- Accelerate onboarding through flexibility and leveraging pre-existing experience
+- Ensuring solutions remain open to other departments and citizens
+- Moving the organization towards examining BYOD
+- Adopting open source software as per [TBS Directive](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=15249#claC.2.3.8)
 
 --
 
-### Continuing Improvements
+### The statistics
 
-Let's experiment what we support to drive results quicker. Technology constantly improves, so let's see how we can adopt them.
+Let's look at some stats on why entertain this.
 
 --
 
@@ -42,6 +51,17 @@ Let's experiment what we support to drive results quicker. Technology constantly
 
 ![OS Stat](https://github.com/sara-sabr/ITResearch-Prototyping/raw/master/topics/devices/assets/os-2019-07.png)  
 [Reference - StatsCounter](https://gs.statcounter.com/os-market-share/desktop-mobile-tablet/worldwide/#monthly-201807-201907)
+
+--
+
+#### The Linux Explosion
+
+Since Linux is so low usage, why even suggest Linux?
+
+It's used in the server environment, we should be matching what we develop on.
+
+- [Linux Runs on All Top 500 Supercomputers](https://itsfoss.com/linux-runs-top-supercomputers/)
+- [Linux dominates Azure](https://www.zdnet.com/article/linux-now-dominates-azure/)
 
 --
 
@@ -59,7 +79,27 @@ Let's experiment what we support to drive results quicker. Technology constantly
 
 ---
 
-## The Risks and Mitigations
+## The How
+
+1. Research through experimentation for each OS and produce findings on their experience
+   - 1 control group
+   - 1 super user group
+   - 1 regular user group
+2. Devices for each OS that run as host
+3. Devices will remain off network
+4. Status updates and constant consultations with stakeholders 
+5. Review at end of the year on how it went.
+
+-- 
+### Learn lessons from others
+
+- Department with Linux desktops
+   - Consult with [Agriculture and Agri-Food Canada](https://gcconnex.gc.ca/file/download/24621373) 
+   - Consult with Environment Canada
+
+---
+
+## The Concerns
 
 How do we ensure we don't impact our security posture while we try out new ideas.
 
@@ -90,17 +130,6 @@ How do we ensure we don't impact our security posture while we try out new ideas
 
 **Mitigation**: Devices will remain off network during this research phase.
 - Virtual machine or Kiosk will be used to access network when required
-
----
-
-## Approaches
-
-Research through experimentation for each OS and produce findings on their experience
-- 1 control group
-- 1 super user group
-- 1 regular user group
-
-Learn lessons from [AAFC](https://gcconnex.gc.ca/file/download/24621373)
 
 ---
 
