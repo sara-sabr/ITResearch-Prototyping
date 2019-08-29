@@ -37,7 +37,7 @@ If there were no budget, staffing, or other constraints, what would the business
 - Ensuring solutions remain open to other departments and citizens
 - Moving the organization towards **B**ring/**C**hoose **Y**our **O**wn **D**evice 
 - Adopting open source software as per [Directive on Management of Information Technology - C.2.3.8](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=15249#claC.2.3.8)
-- Development of native mobile applications for iPhones
+- Technology that is at least as good as people have at home - [UK](https://cabinetofficetechnology.blog.gov.uk/2015/02/12/choosing-technology-that-is-at-least-as-good-as-people-have-at-home/)
 
 --
 
@@ -62,6 +62,13 @@ It's used in the server environment, we should be matching what we develop on.
 
 - [Linux Runs on All Top 500 Supercomputers](https://itsfoss.com/linux-runs-top-supercomputers/)
 - [Linux dominates Azure](https://www.zdnet.com/article/linux-now-dominates-azure/)
+
+--
+
+#### The Mac
+
+- Development of native mobile applications for iPhones
+- Availability of [Sketch](https://www.sketch.com/) for creative software
 
 --
 
@@ -97,6 +104,9 @@ It's used in the server environment, we should be matching what we develop on.
 - Department with Linux desktops
    - Consult with [Agriculture and Agri-Food Canada](https://gcconnex.gc.ca/file/download/24621373) 
    - Consult with Environment Canada
+- Departments with CYOD and tooling
+   - [CDS](https://digital.canada.ca/2018/06/27/tools-to-do-good-work/)
+   - [UK](https://cabinetofficetechnology.blog.gov.uk/2015/02/12/choosing-technology-that-is-at-least-as-good-as-people-have-at-home/)
 
 ---
 
