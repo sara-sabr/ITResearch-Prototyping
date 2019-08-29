@@ -35,7 +35,7 @@ If there were no budget, staffing, or other constraints, what would the business
 - Outcomes and results over standard tooling
 - Accelerate onboarding through flexibility and leveraging pre-existing experience
 - Ensuring solutions remain open to other departments and citizens
-- Moving the organization towards BYOD
+- Moving the organization towards **B**ring/**C**hoose **Y**our **O**wn **D**evice 
 - Adopting open source software as per [Directive on Management of Information Technology - C.2.3.8](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=15249#claC.2.3.8)
 - Development of native mobile applications for iPhones
 
