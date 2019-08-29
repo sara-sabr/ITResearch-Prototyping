@@ -12,9 +12,8 @@ Continuing Our Improvements
 1. The Ask
 2. The Why
 3. The How
-2. The Concerns
-3. Approaches
-4. Questions
+4. Summary
+5. Questions
 
 ---
 
@@ -38,6 +37,7 @@ If there were no budget, staffing, or other constraints, what would the business
 - Ensuring solutions remain open to other departments and citizens
 - Moving the organization towards examining BYOD
 - Adopting open source software as per [TBS Directive](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=15249#claC.2.3.8)
+- Development of native mobile applications for iPhones
 
 --
 
@@ -85,12 +85,13 @@ It's used in the server environment, we should be matching what we develop on.
    - 1 control group
    - 1 super user group
    - 1 regular user group
-2. Devices for each OS that run as host
-3. Devices will remain off network
+2. 3 devices for each OS type (Linux and Mac)
+3. Devices will remain off network until they are secured and proof of concept advances to operationalization
 4. Status updates and constant consultations with stakeholders 
 5. Review at end of the year on how it went.
 
--- 
+--
+
 ### Learn lessons from others
 
 - Department with Linux desktops
@@ -130,6 +131,12 @@ How do we ensure we don't impact our security posture while we try out new ideas
 
 **Mitigation**: Devices will remain off network during this research phase.
 - Virtual machine or Kiosk will be used to access network when required
+
+---
+
+## The Summary
+
+We are seeking approval for a proof of concept on supporting multiple different OSes and how it would look for an ESDC user.
 
 ---
 
