@@ -35,8 +35,8 @@ If there were no budget, staffing, or other constraints, what would the business
 - Outcomes and results over standard tooling
 - Accelerate onboarding through flexibility and leveraging pre-existing experience
 - Ensuring solutions remain open to other departments and citizens
-- Moving the organization towards examining BYOD
-- Adopting open source software as per [TBS Directive](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=15249#claC.2.3.8)
+- Moving the organization towards BYOD
+- Adopting open source software as per [Directive on Management of Information Technology - C.2.3.8](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=15249#claC.2.3.8)
 - Development of native mobile applications for iPhones
 
 --
@@ -85,7 +85,7 @@ It's used in the server environment, we should be matching what we develop on.
    - 1 control group
    - 1 super user group
    - 1 regular user group
-2. 3 devices for each OS type (Linux and Mac)
+2. Three devices for each OS type (Linux and Mac)
 3. Devices will remain off network until they are secured and proof of concept advances to operationalization
 4. Status updates and constant consultations with stakeholders 
 5. Review at end of the year on how it went.
@@ -110,7 +110,12 @@ How do we ensure we don't impact our security posture while we try out new ideas
 
 **Risk**: Management of multiple different OSes
 
-**Mitigation**: Research device management tools to support Windows, Linux and Mac. Cloud based solutions like [Microsoft Intune](https://www.microsoft.com/en-us/microsoft-365/enterprise-mobility-security/microsoft-intune). Ensure patches are applied whether the device is on/off the corporate network.
+**Mitigation**: 
+
+1. Research device management tools to support Windows, Linux and Mac. 
+    - Cloud based solutions like [Microsoft Intune](https://www.microsoft.com/en-us/microsoft-365/enterprise-mobility-security/microsoft-intune).     
+2. Ensure patches are applied whether the device is on/off the corporate network.
+3. Automate patches for software selected.
 
 --
 
@@ -129,8 +134,11 @@ How do we ensure we don't impact our security posture while we try out new ideas
 
 **Risk**: Connecting devices that are not enterprise ready is a risk.
 
-**Mitigation**: Devices will remain off network during this research phase.
+**Mitigation**:
+- Devices will remain off network during this research phase.
+    - LIAS will be leveraged to have monitoring 
 - Virtual machine or Kiosk will be used to access network when required
+- Research cloud based virtual desktops for ESDC network access
 
 ---
 
