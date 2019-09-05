@@ -35,7 +35,7 @@ If there were no budget, staffing, or other constraints, what would the business
 - Outcomes and results over standard tooling
 - Accelerate onboarding through flexibility and leveraging pre-existing experience
 - Ensuring solutions remain open to other departments and citizens
-- Moving the organization towards **B**ring/**C**hoose **Y**our **O**wn **D**evice 
+- Moving the organization towards **C**hoose **Y**our **O**wn **D**evice 
 - Adopting open source software as per [Directive on Management of Information Technology - C.2.3.8](https://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=15249#claC.2.3.8)
 - Technology that is at least as good as people have at home - [UK](https://cabinetofficetechnology.blog.gov.uk/2015/02/12/choosing-technology-that-is-at-least-as-good-as-people-have-at-home/)
 
@@ -92,7 +92,7 @@ It's used in the server environment, we should be matching what we develop on.
    - 1 control group
    - 1 super user group
    - 1 regular user group
-2. Three devices for each OS type (Linux and Mac)
+2. Three devices per each OS type (Linux and Mac)
 3. Devices will remain off network until they are secured and proof of concept advances to operationalization
 4. Status updates and constant consultations with stakeholders 
 5. Review at end of the year on how it went.
@@ -107,6 +107,7 @@ It's used in the server environment, we should be matching what we develop on.
 - Departments with CYOD and tooling
    - [CDS](https://digital.canada.ca/2018/06/27/tools-to-do-good-work/)
    - [UK](https://cabinetofficetechnology.blog.gov.uk/2015/02/12/choosing-technology-that-is-at-least-as-good-as-people-have-at-home/)
+   - ISED
 
 ---
 
